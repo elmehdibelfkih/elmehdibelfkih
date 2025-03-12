@@ -16,14 +16,11 @@ I am currently working on **backend projects**, improving my **AI & ML** skills,
 ## 📂 Projects
 Here are some of the key projects I've been working on:
 
-- **[Project Name 1](link-to-project):** Description of the project.
+- **[minishell](https://github.com/elmehdibelfkih/minishell/tree/main):** Minishell is a project from 42 school that involves creating a minimal Unix shell. The objective is to understand process creation, management, and command execution while adhering to POSIX standards..
 - **[Project Name 2](link-to-project):** Description of the project.
 - **[Project Name 3](link-to-project):** Description of the project.
 
-## 📈 GitHub Stats
-![El Mehdi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&hide_title=true)
-
 ## 📫 How to Reach Me
-Feel free to reach out to me at [your-email@example.com] or via [LinkedIn](https://www.linkedin.com/in/your-profile).
+Feel free to reach out to me at [elmehdibelfkih@gmail.com] or via [LinkedIn](https://www.linkedin.com/in/elmehdibelfkih/).
 
 Thanks for visiting! 🌟

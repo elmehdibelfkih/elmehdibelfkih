@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate **Software Engineer**, specializi
 
 ## 🔧 Skills & Technologies
 - **Programming Languages:** C, C++, Go, Bash
-- **Web Development:** HTML, CSS, NGINX, Docker, PHP
+- **Web Development:** HTML, CSS, NGINX, Docker
 - **Databases:** MariaDB, SQLite
 - **Networking:** TCP/UDP, Socket Programming, Networking Protocols
 - **Operating Systems:** Linux, macOS, Windows
